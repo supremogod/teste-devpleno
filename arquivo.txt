@@ -1,12 +1,7 @@
-aruqivo de texto.
+<html>
+<head>
+  <title>DevPleno</title>
+</head>
+<h1> Olá, Pessoal do DevPleno.</h1>
 
-mais coisas foram acrecentadas. 
-
-Uma vez foi dito a vc que vc nao conseguiria aquilo que vc sempre sonhou, mais essas coisa foram ditas por pessoas que 
-achavao que vc era igua a elas, mais vc e diferente e melhor. Voce vai conseguir sim, vc e , vc tem e vc sempre sera aqui 
-que sempre batalhara.
-
-opa seu lindo.
-
-
-mais coisas add.
+</html>
